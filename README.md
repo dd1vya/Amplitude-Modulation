@@ -1,4 +1,4 @@
-# Amplitude-Modulation
+## Amplitude-Modulation
 
 EXP NO: 1	GENERATION AND DETECTION OF AM
 
@@ -88,7 +88,6 @@ Output Waveform
 
 
 TABULATION:
-![WhatsApp Image 2025-09-10 at 08 10 11_0b7ae541](https://github.com/user-attachments/assets/b91f5c7a-a066-4093-9059-a57125b8238c)
 
 
 
