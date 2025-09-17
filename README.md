@@ -1,18 +1,18 @@
 ## Amplitude-Modulation
 
-EXP NO: 1	GENERATION AND DETECTION OF AM
-
-AIM:
+**EXP NO: 1	GENERATION AND DETECTION OF AM**
+**
+AIM:**
 
 To generate and detect the amplitude modulation and demodulation u s i n g S C I L A B and to calculate modulation index of AM.
 
-EQUIPMENTS REQUIRED
+**EQUIPMENTS REQUIRED**
 
 •	Computer with i3 Processor
 
 •	SCI LAB
 
-THEORY:
+**THEORY:**
 
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a circuit called a modulator.
 Need for modulation is as follows:
@@ -30,8 +30,8 @@ Amplitude Modulation is the process of changing the amplitude of a relatively hi
 
 
 Note: Keep all the switch faults in off position
-
-Algorithm
+**
+Algorithm**
 1.	Define Parameters
 First, define the parameters for your signals:
 •	Carrier frequency (fc)
@@ -74,29 +74,31 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Program
+**Program**
+
 <img width="516" height="612" alt="Screenshot 2025-09-03 080209" src="https://github.com/user-attachments/assets/7d8343f0-3522-470b-9288-da6ca1d34d54" />
 
 
 
 
-Output Waveform
+**Output Waveform**
+
 <img width="1530" height="985" alt="Screenshot 2025-09-03 081435" src="https://github.com/user-attachments/assets/cdef35fa-9e89-4d80-bda4-018f8ac7ec44" />
 
 
 
 
+**
+TABULATION:**
 
-TABULATION:
 
-
-
-Calculation
+**
+Calculation**
 1.	ma (Theory) = am/ac =
 2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
 
-
-MODEL GRAPH
+**
+MODEL GRAPH**
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
  
